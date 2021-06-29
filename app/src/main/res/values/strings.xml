@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCrypto</string>
+    <string name="buttonCrypt">ЗАШИФРОВАТЬ</string>
+    <string name="buttonDeCrypt">РАСШИФРОВАТЬ</string>
+    <string name="buttonCopy">СКОПИРОВАТЬ</string>
+    <string name="buttonDeleteAll">УДАЛИТЬ ВСЕ</string>
+    <string name="instruction">ВВЕДИТЕ ТЕКСТ</string>
+    <string name="instruction2">ВСТАВЬТЕ ТЕКСТ</string>
+</resources>
